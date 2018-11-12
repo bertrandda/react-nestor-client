@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import NestorTerminal from './Nestor/NestorTerminal';
+import NestorTerminal from './lib/NestorTerminal';
 
 class App extends Component {
   render() {
