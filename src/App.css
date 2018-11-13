@@ -1,3 +1,39 @@
 .App {
-  
+  text-align: center;
+  color: white;
+}
+
+.social-icon {
+    margin: 5px;
+}
+
+.nestor-terminal {
+    height: 20em;
+    width: 100%;
+}
+
+footer {
+    color: white;
+}
+
+footer div {
+    margin: 15px;
+}
+
+@media screen and (min-width: 90ch) {
+    .social {
+        position: absolute;
+        margin-left: 10px;
+    }
+
+    .social-icon {
+        display: block;
+    }
+
+    .nestor-terminal {
+        height: 20em;
+        width: 80ch;
+        margin-right: auto;
+        margin-left: auto;
+    }
 }
