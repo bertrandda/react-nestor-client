@@ -17,7 +17,7 @@ class App extends Component {
                 size={1.5}
                 color="white" />
             </a>
-            <a href="https://bertranddaure.fr">
+            <a href="https://cv.bertranddaure.fr">
               <Icon className="social-icon" path={mdiFileDocument}
                 size={1.5}
                 color="white" />
